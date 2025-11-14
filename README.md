@@ -1,8 +1,4 @@
-Below is a **clean, organized, production-ready markdown document** describing your full project, architecture, tech stack, and decisions — **no options, only the best choices for your specific needs**.
 
-You can paste this into your GitHub repo as `PROJECT_OVERVIEW.md`.
-
----
 
 # **Ticketing Web Application – Project Overview**
 
